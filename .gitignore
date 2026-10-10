@@ -1,0 +1,18 @@
+# Python / Django
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+
+# Flutter
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+Thumbs.db
