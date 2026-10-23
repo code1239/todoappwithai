@@ -4,15 +4,18 @@ __pycache__/
 *.py[cod]
 *.sqlite3
 .env
+*.log
 
 # Flutter
 .dart_tool/
 build/
 .flutter-plugins
 .flutter-plugins-dependencies
+pubspec_overrides.yaml
 
 # IDE / OS
 .idea/
 .vscode/
 *.iml
 Thumbs.db
+.DS_Store
